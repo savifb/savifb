@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Sávio Vinícius de Sousa (Vini)
 
-### 💻 Engenharia de Software | Desenvolvimento Full Stack | Ciência de Dados
+### 💻 Engenharia de Software | Desenvolvimento Full Stack 
 
 Formação em Engenharia de Software, Sistemas para Internet e Desenvolvimento Mobile. Atualmente sou desenvolvedor back-end, e interesses em desenvolvimento full stack e ciência de dados.
 
