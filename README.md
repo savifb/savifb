@@ -2,7 +2,6 @@
 
 ### 💻 Engenharia de Software | Desenvolvimento Full Stack 
 
-Formação em Engenharia de Software, Sistemas para Internet e Desenvolvimento Mobile. Atualmente sou desenvolvedor back-end, e interesses em desenvolvimento full stack e ciência de dados.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/perfilsavio" target="_blank">
